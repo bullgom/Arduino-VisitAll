@@ -1,4 +1,3 @@
-//Warning: This file does not work. Its just scrapped from the report.
 
 state* reset_state(void) {
   int i, j;
