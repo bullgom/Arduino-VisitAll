@@ -16,3 +16,5 @@ To Do
   * Renew the entire program
   * Upload running video
  
+Reference
+  * Arduino the Object Way - http://paulmurraycbr.github.io/ArduinoTheOOWay.html
