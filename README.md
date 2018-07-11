@@ -10,7 +10,7 @@ Project Minimum Requirements
 
 Current Status
   * The .ino file is missing
-  * Has to recover file from report
+  * Most of the code is recovered, but some are missing
 
 To Do
   * Renew the entire program
